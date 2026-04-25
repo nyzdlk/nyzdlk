@@ -1,16 +1,24 @@
-## Hi there 👋
+## Niyazi Dolek
 
-<!--
-**nyzdlk/nyzdlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+News editor and AI systems builder based in Istanbul.
 
-Here are some ideas to get you started:
+Sixteen years in broadcast journalism, specializing in crime and courts coverage. For the past two years I've been designing and testing AI-assisted editorial systems inside a live newsroom — building prompt architectures, evaluation frameworks, and OSINT workflows for high-accountability journalism.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile holds the systems I've built, documented, and refined under real broadcast pressure.
+
+### What I work on
+
+- **Prompt architecture** for newsroom workflows (Claude, Gemini, Grok, Perplexity)
+- **Iterative evaluation frameworks** for AI output quality
+- **OSINT-based news verification** systems
+- **Editorial guardrails** for legal status, attribution, and source hierarchy
+
+### Background
+
+- Crime and courts journalism, broadcast television
+- Turkish-language editorial systems
+- AI integration in high-accountability environments
+
+### Get in touch
+
+Open to conversations about journalism, AI systems, and editorial methodology.
