@@ -1,24 +1,43 @@
-## Niyazi Dolek
+## Niyazi Dölek
 
-News editor and AI systems builder based in Istanbul.
+News editor in Istanbul. I teach AI to make fewer mistakes in the newsroom.
 
-Sixteen years in broadcast journalism, specializing in crime and courts coverage. For the past two years I've been designing and testing AI-assisted editorial systems inside a live newsroom — building prompt architectures, evaluation frameworks, and OSINT workflows for high-accountability journalism.
+I have worked in broadcast journalism since 2010, most of it on the crime and courts beat. That beat taught me one thing above all: in a news story, a single wrong word ("arrested" instead of "detained", a claim written as a fact) can harm a real person.
 
-This profile holds the systems I've built, documented, and refined under real broadcast pressure.
+Since 2023 I have been turning that experience into rules that AI models can follow. My focus is not speed. It is accuracy, attribution and control.
 
 ### What I work on
 
-- **Prompt architecture** for newsroom workflows (Claude, Gemini, Grok, Perplexity)
-- **Iterative evaluation frameworks** for AI output quality
-- **OSINT-based news verification** systems
-- **Editorial guardrails** for legal status, attribution, and source hierarchy
+- **Editorial rule systems:** turning newsroom errors into written, testable rules for AI models
+- **Testing and measurement:** fixed test sets to compare models and catch the errors they repeat
+- **Verification:** open-source (OSINT) checking, and the growing problem of AI-generated audio, video and documents
+- **Teaching:** an 8-week "AI and New Media" course for young people and media professionals
 
-### Background
+### Main repository
 
-- Crime and courts journalism, broadcast television
-- Turkish-language editorial systems
-- AI integration in high-accountability environments
+[prompt-engineering-for-journalism](https://github.com/nyzdlk/prompt-engineering-for-journalism): the method, the rules and the systems I build and test.
 
-### Get in touch
+### Contact
 
-Open to conversations about journalism, AI systems, and editorial methodology.
+Open to conversations with researchers, newsrooms and educators working on journalism and AI.
+[LinkedIn: Niyazi Dölek](https://www.linkedin.com/in/niyazi-d%C3%B6lek-01b037333/) · niyazidolek@yandex.com
+
+<details>
+<summary><b>Türkçe</b></summary>
+
+<br>
+
+İstanbul'da haber editörüyüm. Yapay zekaya haber odasında daha az hata yapmayı öğretiyorum.
+
+2010'dan bu yana televizyon haberciliğinde çalışıyorum; mesleğimin büyük bölümü polis ve adliye haberlerinde geçti. Bu alan bana şunu öğretti: Bir haberde tek bir yanlış kelime ("gözaltı" yerine "tutuklama", iddianın gerçek gibi yazılması) gerçek bir insana zarar verebilir.
+
+2023'ten beri bu tecrübeyi yapay zekanın uygulayabileceği kurallara dönüştürüyorum. Amacım hız değil; doğruluk, kaynak gösterme ve denetim.
+
+- **Editoryal kural sistemleri:** Haber odasındaki hataları yazılı ve test edilebilir kurallara çevirmek
+- **Test ve ölçme:** Modelleri karşılaştırmak ve tekrar eden hataları yakalamak için sabit test setleri
+- **Doğrulama:** Açık kaynak (OSINT) teyidi ve yapay zekayla üretilmiş ses, video ve belgeler
+- **Eğitim:** Gençler ve medya çalışanları için 8 haftalık "Yapay Zeka ve Yeni Medya" dersi
+
+Gazetecilik ve yapay zeka üzerine çalışan araştırmacılar, haber odaları ve eğitimcilerle görüşmeye açığım.
+
+</details>
