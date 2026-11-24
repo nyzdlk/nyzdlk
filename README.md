@@ -2,7 +2,7 @@
 
 News editor in Istanbul. I teach AI to make fewer mistakes in the newsroom.
 
-I have worked in broadcast journalism since 2008, most of it on the crime and courts beat. That beat taught me one thing above all: in a news story, a single wrong word ("arrested" instead of "detained", a claim written as a fact) can harm a real person.
+I have worked in broadcast journalism since 2010, most of it on the crime and courts beat. That beat taught me one thing above all: in a news story, a single wrong word ("arrested" instead of "detained", a claim written as a fact) can harm a real person.
 
 Since 2023 I have been turning that experience into rules that AI models can follow. My focus is not speed. It is accuracy, attribution and control.
 
@@ -31,7 +31,7 @@ Open to conversations with researchers, newsrooms and educators working on journ
 
 İstanbul'da haber editörüyüm. Yapay zekaya haber odasında daha az hata yapmayı öğretiyorum.
 
-2008'den bu yana televizyon haberciliğinde çalışıyorum; mesleğimin büyük bölümü polis ve adliye haberlerinde geçti. Bu alan bana şunu öğretti: Bir haberde tek bir yanlış kelime ("gözaltı" yerine "tutuklama", iddianın gerçek gibi yazılması) gerçek bir insana zarar verebilir.
+2010'dan bu yana televizyon haberciliğinde çalışıyorum; mesleğimin büyük bölümü polis ve adliye haberlerinde geçti. Bu alan bana şunu öğretti: Bir haberde tek bir yanlış kelime ("gözaltı" yerine "tutuklama", iddianın gerçek gibi yazılması) gerçek bir insana zarar verebilir.
 
 2023'ten beri bu tecrübeyi yapay zekanın uygulayabileceği kurallara dönüştürüyorum. Amacım hız değil; doğruluk, kaynak gösterme ve denetim.
 
